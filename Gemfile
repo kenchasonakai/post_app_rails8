@@ -19,7 +19,7 @@ gem "cssbundling-rails"
 # Build JSON APIs with ease [https://github.com/rails/jbuilder]
 gem "jbuilder"
 
-gem 'sorcery'
+gem "sorcery"
 
 gem "rails-controller-testing", "~> 1.0"
 
