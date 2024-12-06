@@ -1,0 +1,7 @@
+user_1:
+  nickname: "John Doe"
+  email: "john.doe@example.com"
+
+user_2:
+  nickname: "Jane Smith"
+  email: "jane.smith@example.com"
